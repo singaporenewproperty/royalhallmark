@@ -1,0 +1,9 @@
+# Royal Hallmark
+
+> Royal Hallmark — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/royalhallmark/
+
+## Pages
+
+- [Royal Hallmark](https://singaporenewproperty.github.io/royalhallmark/): Royal Hallmark property information.
